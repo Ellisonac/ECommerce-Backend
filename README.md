@@ -4,7 +4,7 @@
 
 This project implements a MySQL/Sequelize + Express backend for an ECommerce front end. Restful operations are tested with Insomnia.
 
-See a walkthrough of setup and testing of this application: [Walkthrough]()
+See the following walkthroughs for setup and testing of this application: [Setup](https://watch.screencastify.com/v/MKvDO1boriBXqnn1FWhJ) | [Testing](https://watch.screencastify.com/v/srZCxUu5hil1LhNsCQKY)
 
 ![License Badge](https://img.shields.io/badge/License-MIT-informational?logoColor=white&color=1CA2F1)
 
